@@ -7,11 +7,8 @@
 ![Screenshot 2025-03-02 155536](https://github.com/user-attachments/assets/53b4d7bf-ef4c-4e84-85a1-d5635455d141)
 
  
-<h1 align="center">PAWS</h1>
-<h3 align="center">"Pause To Save Paws"</h3>
-
-
-![image](https://github.com/Innovateninjas/Paws-frontend/assets/124495375/c7e22ed2-c970-4aca-b622-9f7837163d33)
+<h1 align="center">BUDDY</h1>
+<h3 align="center">"Pause To Save BUDDY"</h3>
 
 <p align="center">About the project:</p>
 <p align="center">
