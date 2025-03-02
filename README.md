@@ -1,4 +1,4 @@
-# animalsafetyapp.
+ji# animalsafetyapp.
 ![Screenshot 2025-03-02 155240](https://github.com/user-attachments/assets/ea98cfa5-18a1-4dde-9a8f-4594350b7c37)
 ![Screenshot 2025-03-02 155331](https://github.com/user-attachments/assets/3392b487-a693-4692-a09a-37535c9c33b9)
 ![Screenshot 2025-03-02 155358](https://github.com/user-attachments/assets/bfcd5944-4d64-407f-ae90-935a25e432d4)
@@ -65,7 +65,7 @@ Paws is licensed under the MIT License - see the [LICENSE](LICENSE) file for det
 ## Socials 
 <p align="center">
   <a href="https://www.instagram.com/theayushsom?igsh=cHl0ZGZkdmRxOGNk">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Linkdin-E4405F?style=for-the-badge&logo=linkdin &logoColor=Blue">
   </a>
   <a href="https://github.com/innovateninjas">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
