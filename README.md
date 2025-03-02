@@ -64,7 +64,7 @@ Paws is licensed under the MIT License - see the [LICENSE](LICENSE) file for det
 
 ## Socials 
 <p align="center">
-  <a href="https://www.instagram.com/theayushsom?igsh=cHl0ZGZkdmRxOGNk">
+  <a href="https://www.linkedin.com/in/aayush-soam-3372502a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/Linkdin-E4405F?style=for-the-badge&logo=linkdin &logoColor=Blue">
   </a>
   <a href="https://github.com/innovateninjas">
