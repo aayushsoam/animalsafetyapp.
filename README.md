@@ -72,7 +72,7 @@ Paws is licensed under the MIT License - see the [LICENSE](LICENSE) file for det
   </a>
 </p>
 
-### If you like our work, please star the repository. ⭐⭐⭐⭐⭐
+### If you like our work, please star the repository. ⭐⭐⭐⭐⭐️
 
 
 
